@@ -3,6 +3,7 @@
 }
 .header {
     background-image: url(img/background.jpg);
+    background-size: cover;
     width: 98vw;
     height: 50vw;
     display: flex;
